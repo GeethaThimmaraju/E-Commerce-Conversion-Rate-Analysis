@@ -84,4 +84,19 @@ This project analyzes an e-commerce dataset to understand customer behavior, ide
 - Countries with low sales may require targeted marketing or localization  
 - Estimated conversion rate: **[fill in %]** — potential to improve with targeted campaigns  
 
+📌 Outcome
+
+This project demonstrates:
+
+Data cleaning and preprocessing skills
+
+EDA and visualization proficiency
+
+Conversion rate analysis and cohort analysis
+
+Ability to generate actionable business insights
+
+Perfect for showcasing in a Data Analyst resume or portfolio.
+
+
 
